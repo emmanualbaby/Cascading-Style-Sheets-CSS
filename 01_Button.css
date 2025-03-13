@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Button with CSS Example</title>
+    <style>
+        /* Set the width and height of the button */
+        .button {
+            width: 150px; /* Sets the width of the button to 150 pixels */
+            height: 50px; /* Sets the height of the button to 50 pixels */
+        }
+
+        /* Change the background color of the button */
+        .background {
+            background-color: lightblue; /* Sets the background color to light blue */
+        }
+
+        /* Change the text color of the button */
+        .color {
+            color: white; /* Sets the text color to white */
+        }
+
+        /* Change the font family of the button */
+        .font {
+            font-family: Arial, sans-serif; /* Sets the font family to Arial */
+        }
+
+        /* Change the font size of the button */
+        .size {
+            font-size: 16px; /* Sets the font size to 16 pixels */
+        }
+
+        /* Make the text bold */
+        .bold {
+            font-weight: bold; /* Makes the text bold */
+        }
+
+        /* Add padding inside the button */
+        .padding {
+            padding: 10px 20px; /* Adds 10 pixels of padding on top and bottom, and 20 pixels on left and right */
+        }
+
+        /* Add margin outside the button */
+        .margin {
+            margin: 10px; /* Adds a 10-pixel margin outside the button */
+        }
+
+        /* Add a border to the button */
+        .border {
+            border: 2px solid black; /* Adds a 2-pixel solid black border around the button */
+        }
+
+        /* Add rounded corners to the button */
+        .rounded {
+            border-radius: 10px; /* Adds a 10-pixel border radius to the button */
+        }
+
+        /* Add a shadow to the button */
+        .shadow {
+            box-shadow: 5px 5px 10px gray; /* Adds a gray shadow to the button */
+        }
+
+        /* Change the cursor when hovering over the button */
+        .cursor {
+            cursor: pointer; /* Changes the cursor to a pointer when hovering over the button */
+        }
+
+        /* Change the background color when hovering over the button */
+        .hover:hover {
+            background-color: darkblue; /* Changes the background color to dark blue when hovering */
+        }
+
+        /* Change the text color when hovering over the button */
+        .hover-text:hover {
+            color: yellow; /* Changes the text color to yellow when hovering */
+        }
+
+        /* Change the opacity of the button */
+        .opacity {
+            opacity: 0.8; /* Sets the opacity of the button to 80% */
+        }
+
+        /* Change the display property of the button */
+        .display {
+            display: inline-block; /* Sets the display property to inline-block */
+        }
+
+        /* Center the button */
+        .center {
+            display: block; /* Sets the display property to block */
+            margin-left: auto; /* Centers the button horizontally */
+            margin-right: auto; /* Centers the button horizontally */
+        }
+    </style>
+</head>
+<body>
+    <button class="button background color font size bold padding margin border rounded shadow cursor hover hover-text opacity display center">
+        I am Emmanual
+    </button>
+</body>
+</html>

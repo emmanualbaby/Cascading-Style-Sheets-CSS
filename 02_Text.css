@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Text with CSS Example</title>
+    <style>
+        /* Change the text color */
+        .color {
+            color: blue; /* Sets the text color to blue */
+        }
+
+        /* Change the background color */
+        .background {
+            background-color: yellow; /* Sets the background color to yellow */
+        }
+
+        /* Change the font family */
+        .font {
+            font-family: Arial, sans-serif; /* Sets the font family to Arial */
+        }
+
+        /* Change the font size */
+        .size {
+            font-size: 20px; /* Sets the font size to 20 pixels */
+        }
+
+        /* Make the text bold */
+        .bold {
+            font-weight: bold; /* Makes the text bold */
+        }
+
+        /* Make the text italic */
+        .italic {
+            font-style: italic; /* Makes the text italic */
+        }
+
+        /* Underline the text */
+        .underline {
+            text-decoration: underline; /* Underlines the text */
+        }
+
+        /* Strike through the text */
+        .strikethrough {
+            text-decoration: line-through; /* Adds a line through the text */
+        }
+
+        /* Overline the text */
+        .overline {
+            text-decoration: overline; /* Adds a line above the text */
+        }
+
+        /* Change the text alignment */
+        .align {
+            text-align: center; /* Aligns the text to the center */
+        }
+
+        /* Change the line height */
+        .line-height {
+            line-height: 1.5; /* Sets the line height to 1.5 */
+        }
+
+        /* Change the letter spacing */
+        .letter-spacing {
+            letter-spacing: 2px; /* Sets the letter spacing to 2 pixels */
+        }
+
+        /* Change the word spacing */
+        .word-spacing {
+            word-spacing: 5px; /* Sets the word spacing to 5 pixels */
+        }
+
+        /* Transform the text to uppercase */
+        .uppercase {
+            text-transform: uppercase; /* Transforms the text to uppercase */
+        }
+
+        /* Transform the text to lowercase */
+        .lowercase {
+            text-transform: lowercase; /* Transforms the text to lowercase */
+        }
+
+        /* Capitalize the text */
+        .capitalize {
+            text-transform: capitalize; /* Capitalizes the first letter of each word */
+        }
+
+        /* Indent the first line of the text */
+        .text-indent {
+            text-indent: 30px; /* Indents the first line of the text by 30 pixels */
+        }
+
+        /* Add a shadow to the text */
+        .text-shadow {
+            text-shadow: 2px 2px 5px gray; /* Adds a gray shadow to the text */
+        }
+
+        /* Change the opacity of the text */
+        .opacity {
+            opacity: 0.8; /* Sets the opacity of the text to 80% */
+        }
+
+        /* Change the vertical alignment of the text */
+        .vertical-align {
+            vertical-align: middle; /* Aligns the text vertically in the middle */
+        }
+
+        /* Change the direction of the text */
+        .direction {
+            direction: rtl; /* Sets the text direction to right-to-left */
+        }
+
+        /* Change the white space handling */
+        .white-space {
+            white-space: nowrap; /* Prevents the text from wrapping to the next line */
+        }
+    </style>
+</head>
+<body>
+    <p class="color">I am Emmanual</p>
+    <p class="background">I am Emmanual</p>
+    <p class="font">I am Emmanual</p>
+    <p class="size">I am Emmanual</p>
+    <p class="bold">I am Emmanual</p>
+    <p class="italic">I am Emmanual</p>
+    <p class="underline">I am Emmanual</p>
+    <p class="strikethrough">I am Emmanual</p>
+    <p class="overline">I am Emmanual</p>
+    <p class="align">I am Emmanual</p>
+    <p class="line-height">I am Emmanual</p>
+    <p class="letter-spacing">I am Emmanual</p>
+    <p class="word-spacing">I am Emmanual</p>
+    <p class="uppercase">I am Emmanual</p>
+    <p class="lowercase">I am Emmanual</p>
+    <p class="capitalize">I am Emmanual</p>
+    <p class="text-indent">I am Emmanual</p>
+    <p class="text-shadow">I am Emmanual</p>
+    <p class="opacity">I am Emmanual</p>
+    <p class="vertical-align">I am Emmanual</p>
+    <p class="direction">I am Emmanual</p>
+    <p class="white-space">I am Emmanual</p>
+</body>
+</html>

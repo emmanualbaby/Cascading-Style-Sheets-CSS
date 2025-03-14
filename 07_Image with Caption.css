@@ -1,0 +1,27 @@
+HTML PART
+
+
+
+<figure>
+  <img src="path/to/your/image.jpg" alt="Description">
+  <figcaption>This is a caption for the image.</figcaption>
+</figure>
+
+
+
+CSS PART
+
+
+
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-style: italic;
+  color: #555;
+}
+
+
+

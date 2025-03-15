@@ -1,0 +1,4 @@
+/* CSS Masking */
+div {
+  mask-image: url(mask.png);
+}

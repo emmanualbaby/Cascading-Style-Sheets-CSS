@@ -1,0 +1,4 @@
+/* CSS object-fit */
+img {
+  object-fit: cover;
+}

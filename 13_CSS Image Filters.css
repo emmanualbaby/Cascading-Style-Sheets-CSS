@@ -1,0 +1,4 @@
+/* CSS Image Filters */
+img {
+  filter: grayscale(100%);
+}

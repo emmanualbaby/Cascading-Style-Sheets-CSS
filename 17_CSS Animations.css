@@ -1,0 +1,8 @@
+/* CSS Animations */
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+div {
+  animation: example 5s infinite;
+}

@@ -1,0 +1,7 @@
+/* CSS Transitions */
+div {
+  transition: width 2s;
+}
+div:hover {
+  width: 200px;
+}

@@ -1,0 +1,4 @@
+/* CSS Pseudo-elements */
+p::after {
+  content: ' - Read more';
+}

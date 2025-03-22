@@ -1,0 +1,7 @@
+/* CSS Links */
+a {
+  color: red;
+}
+a:hover {
+  color: blue;
+}

@@ -1,0 +1,22 @@
+img {
+  filter: blur(5px) sepia(100%) brightness(0.8) contrast(1.2) saturate(1.5);
+  clip-path: circle(50%);
+  mask-image: url('path/to/mask.png');
+  -webkit-mask-image: url('path/to/mask.png');
+  transition: filter 0.3s ease-in-out;
+}
+
+img:hover {
+  filter: none;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container img {
+  max-width: 100%;
+  height: auto;
+}
